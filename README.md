@@ -1,5 +1,5 @@
 - Hi, I’m @nick-guo9
-- I’m interested in quantitative finance and software engineering.
+- I’m interested in actuarial consulting, quantitative finance and software engineering.
 - I’m currently studying Actuarial Studies / Computer Science at UNSW.
 - I’m looking to collaborate on Python / R / C projects.
 - How to reach me: LinkedIn (Nick Guo).
