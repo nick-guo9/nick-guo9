@@ -1,5 +1,5 @@
 - Hi, I’m @nick-guo9
-- Studying Bachlor of Actuarial Studies / Computer Science
+- Studying Bachelor of Actuarial Studies / Computer Science
 - Interested in quantitative finance, risk, insurance, actuarial consulting, and data science.
 - I’m looking to collaborate on Python / R / C projects.
 - How to reach me ...
