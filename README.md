@@ -1,6 +1,6 @@
 - Hi, I’m @nick-guo9
-- I’m interested in actuarial consulting, quantitative finance and software engineering.
-- I’m currently studying Actuarial Studies / Computer Science.
+- Studying Bachlor of Actuarial Studies / Computer Science
+- Interested in quantitative finance, risk, insurance, actuarial consulting, and data science.
 - I’m looking to collaborate on Python / R / C projects.
 - How to reach me ...
 
